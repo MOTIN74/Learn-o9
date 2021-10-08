@@ -1,13 +1,13 @@
 #  React App Name: 
 
-Musical Guitar
+Learn Language
 
 ## Objectives:
 
-TO teach the people, who wants to learn Music, Guiter etc.
+TO teach the people, who wants to learn Language in English, Arabic etc.
 
 ### Live site:
-https://musical-guiter74.netlify.app/
+https://learn-language-09.netlify.app/
 
 
 
